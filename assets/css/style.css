@@ -1,0 +1,36 @@
+/* 
+    Comentario en css
+*/
+:root{
+   
+}
+
+header {
+    background-color: blue;
+    height: 100px;
+}
+
+.logo {
+    height: 90px;
+    margin: 5px;
+}
+
+#main{
+    margin: 2% 5%;
+    display: flex;
+}
+
+#izquierda {
+    width: 19%;
+}
+
+.contenedor {
+    width: 81%;
+    display: flex;
+}
+
+.division {
+    border: solid black 3px;
+    padding: 10px;
+    text-align: center;
+}
