@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+  }
+  
+  header {
+     text-align: center;
+  
+  }
+  
+  .container {
+    display: inline-flex;
+  }
+  
+  aside {
+   background-color: #F0F8FF;
+   width: 33%;
+   padding: 20px;
+  
+  
+  }
+  
+  #contenido {
+      background-color: #FAEBD7;
+      padding: 20px;
+  }
+  
+  footer {
+  margin-top:20px;
+    background-color: black;
+   color: #fff;
+   text-align: center;
+   padding: 20px;
+  }
