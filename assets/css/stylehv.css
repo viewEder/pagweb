@@ -1,0 +1,32 @@
+/* Estilos HV Perfil */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    top: 0;
+    width: 100%;
+}
+
+.izquierda {
+    width: 25%;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: antialiased;
+}
+
+.banner {
+    width: 75%;
+    float: right;
+}
+
+section {
+    width: 75%;
+    float: right;
+    padding-bottom: 50px;
+}
+
+.pie {
+    width: 25%;
+    float: left;
+    position: fixed;
+    
+}
