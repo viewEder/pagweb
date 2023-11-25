@@ -24,9 +24,25 @@ section {
     padding-bottom: 50px;
 }
 
+.tabla > table {
+    width: 100%;
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+tr td {
+    border: 1px dotted black;
+}
+
 .pie {
     width: 25%;
     float: left;
     position: fixed;
-    
+
 }
