@@ -1,0 +1,59 @@
+/* Estilos HV Perfil */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    top: 0;
+    width: 100%;
+}
+
+.izquierda {
+    width: 25%;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: antialiased;
+}
+
+.banner img{
+    width: 75%;
+    height: 120px;
+    float: right;
+}
+
+section {
+    width: 75%;
+    float: right;
+    padding-bottom: 50px;
+}
+
+#proyectos .repositorio {
+    width: 100%;
+    display: inline-flex;
+    justify-items: flex-start;
+}
+
+#proyectos > .participacion {
+    width: 50%;
+}
+
+.tabla > table {
+    width: 100%;
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+tr td {
+    border: 1px dotted black;
+}
+
+.pie {
+    width: 25%;
+    float: left;
+    position: fixed;
+
+}

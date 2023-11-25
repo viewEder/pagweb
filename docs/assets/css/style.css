@@ -1,0 +1,48 @@
+/* 
+    Comentario en css
+    Los estilos son de 3 tipos:
+    - Estilo Fijo: 
+        Hace referencia a la cantidad de pixeles que tenemos en una pantalla
+    - Estilo Liquido:
+        Hace referencia a los porcentajes (unidades relativas) del los elementos en la pantalla
+    - Estilo Elástico:
+        Hace refencia a porcentajes y a la posición que se debe usar en el contenedor
+*/
+:root {
+   /* 
+    Seudo clase para determinar constantes de estilos, pero se aplica a todo el documento
+    :root selector
+    :root, selector
+   */
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: forestgreen;
+    height: 100px;
+}
+
+.logo {
+    height: 90px;
+    margin: 5px;
+}
+
+#main{
+    margin: 2% 5%;
+    display: flex;
+}
+
+#izquierda {
+    width: 19%;
+}
+
+.contenedor {
+    width: 81%;
+    display: flex;
+}
+
+.division {
+    border: solid black 3px;
+    padding: 10px;
+    text-align: center;
+}

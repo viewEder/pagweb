@@ -1,0 +1,38 @@
+/*  */
+body {
+    font-family: Arial, sans-serif;
+    background-color: red;
+}
+h1 {
+    color: white;
+    text-align: center;
+    text-decoration: double;
+    font-size: 24px;
+}
+a {
+    
+    color:aliceblue;
+}
+table {
+    background-color: ;
+    width: 50%;
+}
+article h1 {
+    font-size: 40px;
+    color: chartreuse;
+}
+
+p {
+    color: yellow;
+}
+
+#apoyo {
+    color: goldenrod;
+    background-color: black;
+}
+
+.parrafo {
+    color: white;
+    margin: 20%;
+}
+
